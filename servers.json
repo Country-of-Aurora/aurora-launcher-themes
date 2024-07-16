@@ -1,6 +1,5 @@
 {
-  "DoJ":
-    {
+  "DoJ": {
       "modpackURL": "https://github.com/DistrictOfJoban/modpack-new/raw/main/modpack.zip",
       "modpackName": "Joban Modpack",
       "modpackVersion": 1.19.2,
