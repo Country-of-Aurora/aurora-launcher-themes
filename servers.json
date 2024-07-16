@@ -1,5 +1,5 @@
 {
-  "DoJ": [
+  "DoJ":
     {
       "modpackURL": "https://github.com/DistrictOfJoban/modpack-new/raw/main/modpack.zip",
       "modpackName": "Joban Modpack",
@@ -10,5 +10,4 @@
       "title": "The District of Joban",
       "desc": "We're a community hosting a transit-oriented server based on the Minecraft Transit Railway Mod, developing MTR Addons as well as various other projects!"
     }
-  ]
 }
