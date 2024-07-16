@@ -8,15 +8,5 @@
       "iconURL": "https://www.dropbox.com/scl/fi/4lojnov7z5gqntavwn4y5/joban.png?rlkey=ggzm97c1owja2gtz04m3subn5&st=27krez69&dl=1",
       "title": "The District of Joban",
       "desc": "We're a community hosting a transit-oriented server based on the Minecraft Transit Railway Mod, developing MTR Addons as well as various other projects!"
-    },
-    "LPS": {
-      "modpackURL": "https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip",
-      "modpackName": "MTR-LetsPlay",
-      "modpackVersion": "1.19.2",
-      "videoURL": "https://www.dropbox.com/scl/fi/1h0t6ve4rkffldd9884br/video.mp4?rlkey=erpw3fah9u8up1086md8h2o2f&st=khn35yvh&dl=1",
-      "audioURL": "https://www.dropbox.com/scl/fi/vmtah60rbq2amgx6y6tfw/audio.mp3?rlkey=0gtaa8f6rok1a3tn0sr52r7cy&st=yg1n66m5&dl=1",
-      "iconURL": "https://wiki.minecrafttransitrailway.com/_media/wiki:logo.png",
-      "title": "Let's Play Server",
-      "desc": "The Let's Play Server is the official Minecraft Transit Railway mod server. Join us to explore amazing transit-oriented creations!"
     }
 }
