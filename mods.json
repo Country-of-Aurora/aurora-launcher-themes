@@ -21,7 +21,9 @@
     },
     "MTR": {
       "instanceKeywords": ["MTR", "Minecraft Transit Railway"],
-      "filePattern": [""],
+      "filePattern": [
+        "MTR-(fabric|forge)-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\.jar"
+      ],
       "videoURL": "https://www.dropbox.com/scl/fi/1h0t6ve4rkffldd9884br/video.mp4?rlkey=erpw3fah9u8up1086md8h2o2f&st=zbbldbiq&dl=1",
       "videoSHA1": "e949384c2243d6bb6b204c951ac77b8af1b95234",
       "audioURL": "https://www.dropbox.com/scl/fi/vmtah60rbq2amgx6y6tfw/audio.mp3?rlkey=0gtaa8f6rok1a3tn0sr52r7cy&st=yg1n66m5&dl=1",
