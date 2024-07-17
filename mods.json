@@ -1,6 +1,7 @@
 {
   "JCM": {
       "instanceKeywords": ["JCM", "Joban Client", "Joban Client Mod", "Joban"],
+      "filePattern": "",
       "videoURL": "https://www.dropbox.com/scl/fi/qvu2nlvpz9tyu4w9lccje/video.mp4?rlkey=qlq4eqkrikugmouezvuvn3bvx&st=0kjumw4a&dl=1",
       "videoSHA1": "354dcc59e2477176cd004917b474e6876c507712",
       "audioURL": "https://www.dropbox.com/scl/fi/mgfurtove5ab3jrxx3wz4/audio.mp3?rlkey=8cv74sy7isf89e7fabcqn7x4u&st=68w9a8bm&dl=1",
@@ -13,6 +14,7 @@
     },
     "MTR": {
       "instanceKeywords": ["MTR", "Minecraft Transit Railway"],
+      "filePattern": "",
       "videoURL": "https://www.dropbox.com/scl/fi/1h0t6ve4rkffldd9884br/video.mp4?rlkey=erpw3fah9u8up1086md8h2o2f&st=zbbldbiq&dl=1",
       "videoSHA1": "e949384c2243d6bb6b204c951ac77b8af1b95234",
       "audioURL": "https://www.dropbox.com/scl/fi/vmtah60rbq2amgx6y6tfw/audio.mp3?rlkey=0gtaa8f6rok1a3tn0sr52r7cy&st=yg1n66m5&dl=1",
@@ -26,6 +28,7 @@
     },
     "RTM": {
       "instanceKeywords": ["RTM", "Real Train", "Real Train Mod", "RealTrainMod", "RealTrain Mod", "Real TrainMod"],
+      "filePattern": "RTM.*\\.jar",
       "videoURL": "",
       "videoSHA1": "",
       "audioURL": "",
