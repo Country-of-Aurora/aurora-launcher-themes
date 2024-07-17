@@ -4,8 +4,11 @@
       "modpackName": "Joban Modpack",
       "modpackVersion": "1.19.2",
       "videoURL": "https://www.dropbox.com/scl/fi/qvu2nlvpz9tyu4w9lccje/video.mp4?rlkey=qlq4eqkrikugmouezvuvn3bvx&st=0kjumw4a&dl=1",
+      "videoSHA1": "354DCC59E2477176CD004917B474E6876C507712",
       "audioURL": "https://www.dropbox.com/scl/fi/mgfurtove5ab3jrxx3wz4/audio.mp3?rlkey=8cv74sy7isf89e7fabcqn7x4u&st=68w9a8bm&dl=1",
+      "audioSHA1": "D1A0180B51D0CF2DE455AF7343541C966694818B",
       "iconURL": "https://www.dropbox.com/scl/fi/4lojnov7z5gqntavwn4y5/joban.png?rlkey=ggzm97c1owja2gtz04m3subn5&st=27krez69&dl=1",
+      "iconSHA1": "8EB77FA9C42202BDAA6AB271D504CEDCA44916E2",
       "title": "The District of Joban",
       "desc": "We're a community hosting a transit-oriented server based on the Minecraft Transit Railway Mod, developing MTR Addons as well as various other projects!"
     },
@@ -14,8 +17,11 @@
       "modpackName": "MTR-LetsPlay",
       "modpackVersion": "1.19.2",
       "videoURL": "https://www.dropbox.com/scl/fi/1h0t6ve4rkffldd9884br/video.mp4?rlkey=erpw3fah9u8up1086md8h2o2f&st=zbbldbiq&dl=1",
+      "videoSHA1": "E949384C2243D6BB6B204C951AC77B8AF1B95234",
       "audioURL": "https://www.dropbox.com/scl/fi/vmtah60rbq2amgx6y6tfw/audio.mp3?rlkey=0gtaa8f6rok1a3tn0sr52r7cy&st=yg1n66m5&dl=1",
+      "audioSHA1": "A9665EED716F285231C64C2E69303D8720907E39",
       "iconURL": "https://www.dropbox.com/scl/fi/lg0b8p6rqhro7ld9az638/icon.png?rlkey=72ger2n5by3zujao8e1i5nh70&st=8xxx0hvm&dl=1",
+      "iconSHA1": "F484320EE8EEC9CD6089831F13F1EE7219FA53D8",
       "title": "Let's Play Server",
       "desc": "The Let's Play Server is the official Minecraft Transit Railway mod server. Join us to explore amazing transit-oriented creations!"
     }
