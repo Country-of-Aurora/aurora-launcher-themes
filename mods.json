@@ -38,8 +38,9 @@
     "RTM": {
       "instanceKeywords": ["RTM", "Real Train", "Real Train Mod", "RealTrainMod", "RealTrain Mod", "Real TrainMod"],
       "filePattern": [
-        "RTM\\d+\\.\\d+\\.\\d+-\\d+_forge-\\d+\\.\\d+\\.\\d+-\\d+\\.jar",
-        "RTM\\d+\\.\\d+\\.\\d+_Forge\\d+\\.\\d+\\.\\d+\\.jar"
+        "^RTM\\d+\\.\\d+\\.\\d+-\\d+_forge-\\d+\\.\\d+\\.\\d+-\\d+\\.jar$",
+        "^RTM\\d+\\.\\d+\\.\\d+_Forge\\d+\\.\\d+\\.\\d+\\.jar$",
+        "^RTM\\d+\\.\\d+\\.\\d+-\\d+_forge-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar$"
       ],
       "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRmbUZkbEZBQ2V6Sjhva28_ZT00V3pwQ0w/root/content",
       "videoSHA1": "08f3a71f5d2463ccf54b9b8b88a9457112afb9d9",
