@@ -68,5 +68,5 @@
         "title": "Local Weather, Storms & Tornadoes",
         "desc": "Adds a localized weather system that replaces minecrafts global weather, wind, and lots of ambient enhancements. The weather system includes tornadoes, hurricanes, sandstorms, water spouts, windstorms, thunderstorms, various stages of rainfall. Particles are thrown around in the wind. Leaf particles fall from trees.",
         "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes"
-      },
+      }
 }
