@@ -42,13 +42,13 @@
         "RTM\\d+\\.\\d+\\.\\d+_Forge\\d+\\.\\d+\\.\\d+\\.jar"
       ],
       "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRmbUZkbEZBQ2V6Sjhva28_ZT00V3pwQ0w/root/content",
-      "videoSHA1": "08F3A71F5D2463CCF54B9B8B88A9457112AFB9D9",
+      "videoSHA1": "08f3a71f5d2463ccf54b9b8b88a9457112afb9d9",
       "audioURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdlRXRmQ2VXJrMVRmOGFfVE1sUTBkazRBMVk_ZT1JdTUxSTI/root/content",
-      "audioSHA1": "B39B3F7A48180934FD140AE45A440392E40332A8",
-      "iconURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBdlRXRmQ2VXJrMVRmY0lVQjJFLTdKUDdsZjg_ZT1HTjRiR00/root/content",
-      "iconSHA1": "960DF544C43943D8DF4A351C3478A91F856EB123",
+      "audioSHA1": "b39b3f7a48180934fd140ae45a440392e40332a8",
+      "iconURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBdlRXRmQ2VXJrMVRmY0lVQjJFLTdKUDdsZjg_ZT1pOVM1NHM/root/content",
+      "iconSHA1": "8347e0d3fe46fa9ba2b7d423c80c2e4feb195311",
       "title": "Real Train Mod",
-      "desc": "Experience realistic train operations and build intricate railway networks with RealTrainMod!",
+      "desc": "Experience realistic train operations and build intricate railway networks with Real Train Mod!",
       "titleJP": "Real Train Mod",
       "descJP": "RealTrainModでリアルな列車運行を体験し、複雑な鉄道ネットワークを構築しよう！",
       "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/realtrainmod"
