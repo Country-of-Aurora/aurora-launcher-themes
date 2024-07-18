@@ -53,5 +53,20 @@
       "titleJP": "Real Train Mod",
       "descJP": "RealTrainModでリアルな列車運行を体験し、複雑な鉄道ネットワークを構築しよう！",
       "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/realtrainmod"
-    }
+    },
+    "Weather2": {
+        "instanceKeywords": ["Weather2", "Tornado", "Weather"],
+        "filePattern": [
+          "weather2-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar"
+        ],
+        "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRnUUw1c1VGeFhCdE5fZGZzP2U9QXNxMlVu/root/content",
+        "videoSHA1": "30ffe9ffab20e96207b8b3725c6399cd57f16089",
+        "audioURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdlRXRmQ2VXJrMVRnUUhYUjRTejZETFRGZ2xPP2U9YkZsMm5E/root/content",
+        "audioSHA1": "8f252178acb52b6b6e7f9cd3fdacd252b12c821f",
+        "iconURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBdlRXRmQ2VXJrMVRnUU9scXhMallxa1FnLVJBP2U9bUxiNWZh/root/content",
+        "iconSHA1": "72ba755820caab3eed6dc390e60659d1911a0cc8",
+        "title": "Local Weather, Storms & Tornadoes",
+        "desc": "Adds a localized weather system that replaces minecrafts global weather, wind, and lots of ambient enhancements. The weather system includes tornadoes, hurricanes, sandstorms, water spouts, windstorms, thunderstorms, various stages of rainfall. Particles are thrown around in the wind. Leaf particles fall from trees.",
+        "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes"
+      },
 }
