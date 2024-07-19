@@ -60,41 +60,41 @@
       "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/realtrainmod"
     },
     "Weather2": {
-        "instanceKeywords": ["Weather2", "Tornado", "Weather"],
-        "filePattern": [
-          "weather2-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar"
-        ],
-        "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRnUUw1c1VGeFhCdE5fZGZzP2U9QXNxMlVu/root/content",
-        "videoSHA1": "30ffe9ffab20e96207b8b3725c6399cd57f16089",
-        "audioURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdlRXRmQ2VXJrMVRnUUhYUjRTejZETFRGZ2xPP2U9YkZsMm5E/root/content",
-        "audioSHA1": "8f252178acb52b6b6e7f9cd3fdacd252b12c821f",
-        "iconURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBdlRXRmQ2VXJrMVRnUU9scXhMallxa1FnLVJBP2U9bUxiNWZh/root/content",
-        "iconSHA1": "72ba755820caab3eed6dc390e60659d1911a0cc8",
-        "title": "Local Weather, Storms & Tornadoes",
-        "desc": "Enhances Minecraft with a realistic, localized weather system featuring tornadoes, hurricanes, and sandstorms.",
-        "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes"
+      "instanceKeywords": ["Weather2", "Tornado", "Weather"],
+      "filePattern": [
+        "weather2-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar"
+      ],
+      "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRnUUw1c1VGeFhCdE5fZGZzP2U9QXNxMlVu/root/content",
+      "videoSHA1": "30ffe9ffab20e96207b8b3725c6399cd57f16089",
+      "audioURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdlRXRmQ2VXJrMVRnUUhYUjRTejZETFRGZ2xPP2U9YkZsMm5E/root/content",
+      "audioSHA1": "8f252178acb52b6b6e7f9cd3fdacd252b12c821f",
+      "iconURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBdlRXRmQ2VXJrMVRnUU9scXhMallxa1FnLVJBP2U9bUxiNWZh/root/content",
+      "iconSHA1": "72ba755820caab3eed6dc390e60659d1911a0cc8",
+      "title": "Local Weather, Storms & Tornadoes",
+      "desc": "Enhances Minecraft with a realistic, localized weather system featuring tornadoes, hurricanes, and sandstorms.",
+      "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes"
     },
     "BiomesOPlenty": {
-    "instanceKeywords": ["Biomes O' Plenty", "BoP", "Biomes O"],
-    "filePattern": [
-      "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar",
-      "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
-      "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
-      "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
-      "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\-universal.jar",
-      "BiomesOPlenty-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\-universal.jar",
-      "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
-      "BiomesOPlenty-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar"
-    ],
-    "videoURL": "",
-    "videoSHA1": "",
-    "audioURL": "",
-    "audioSHA1": "",
-    "iconURL": "",
-    "iconSHA1": "",
-    "title": "Biomes O' Plenty",
-    "desc": "Adds a variety of new biomes to the Overworld and Nether.",
-    "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
+      "instanceKeywords": ["Biomes O' Plenty", "BoP", "Biomes O"],
+      "filePattern": [
+        "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar",
+        "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+        "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+        "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+        "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\-universal.jar",
+        "BiomesOPlenty-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\-universal.jar",
+        "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+        "BiomesOPlenty-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar"
+      ],
+      "videoURL": "",
+      "videoSHA1": "",
+      "audioURL": "",
+      "audioSHA1": "",
+      "iconURL": "",
+      "iconSHA1": "",
+      "title": "Biomes O' Plenty",
+      "desc": "Adds a variety of new biomes to the Overworld and Nether.",
+      "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
   },
   "DistantHorizons": {
     "instanceKeywords": ["Distant Horizons", "DH"],
