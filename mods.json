@@ -23,7 +23,10 @@
       "instanceKeywords": ["MTR", "Minecraft Transit Railway"],
       "filePattern": [
         "MTR-(fabric|forge)-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\.jar",
-        "MTR-\\d+\\.\\d+\\.\\d+\\-alpha-test-\\d+\\.\\d+\\.\\d+\\.jar"
+        "MTR-\\d+\\.\\d+\\.\\d+\\-alpha-test-\\d+\\.\\d+\\.\\d+\\.jar",
+        "MTR-(fabric|forge)-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\-hotfix-\\d+\\.jar",
+        "MTR-(fabric|forge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\-hotfix-\\d+\\.jar",
+        "MTR-(fabric|forge)-\\d+\\.\\d+\\.\\d+\\-beta-\\d+\\+\\d+\\.\\d+\\.\\d+\\.jar"
       ],
       "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRjUWt3VW1VQjNIMmQxN2c_ZT1JZ1JEcFE/root/content",
       "videoSHA1": "e949384c2243d6bb6b204c951ac77b8af1b95234",
