@@ -73,5 +73,116 @@
         "title": "Local Weather, Storms & Tornadoes",
         "desc": "Enhances Minecraft with a realistic, localized weather system featuring tornadoes, hurricanes, and sandstorms.",
         "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes"
-      }
+    },
+    "BiomesOPlenty": {
+    "instanceKeywords": ["Biomes O' Plenty", "BoP", "Biomes O"],
+    "filePattern": [
+      "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar",
+      "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+      "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+      "BiomesOPlenty-(fabric|forge|neoforge)-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+      "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\-universal.jar",
+      "BiomesOPlenty-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\-universal.jar",
+      "BiomesOPlenty-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar",
+      "BiomesOPlenty-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.\\d+\\.jar"
+    ],
+    "videoURL": "",
+    "videoSHA1": "",
+    "audioURL": "",
+    "audioSHA1": "",
+    "iconURL": "",
+    "iconSHA1": "",
+    "title": "Biomes O' Plenty",
+    "desc": "Adds a variety of new biomes to the Overworld and Nether.",
+    "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
+  },
+  "DistantHorizons": {
+    "instanceKeywords": ["Distant Horizons", "DH"],
+    "filePattern": [
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\.jar",
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\-neo-fabric.jar",
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\-forge-fabric.jar",
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\.\\d+\\.jar",
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\a-\\d+\\.\\d+\\.jar"
+    ],
+    "videoURL": "",
+    "videoSHA1": "",
+    "audioURL": "",
+    "audioSHA1": "",
+    "iconURL": "",
+    "iconSHA1": "",
+    "title": "Distant Horizons",
+    "desc": "Implements Level of Detail (LOD) to render distant terrain efficiently.",
+    "modrinthURL": "https://modrinth.com/mod/distant-horizons",
+    "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/distant-horizons"
+  },
+  "Create": {
+    "instanceKeywords": ["Create", "Create Mod"],
+    "filePattern": [
+      "create-\\d+\\.\\d+\\.\\d+\\.jar",
+      "create-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.f.jar",
+      "create-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.f.jar",
+      "create-fabric-\\d+\\.\\d+\\.\\d+\\-f-build.\\d+\\+mc\\d+\\.\\d+\\.\\d+\\.jar"
+    ],
+    "videoURL": "",
+    "videoSHA1": "",
+    "audioURL": "",
+    "audioSHA1": "",
+    "iconURL": "",
+    "iconSHA1": "",
+    "title": "Create",
+    "desc": "A massive technical mod that introduces kinetic energy and mechanical systems.",
+    "modrinthURL": "https://modrinth.com/mod/create",
+    "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/create"
+  },
+  "TwilightForest": {
+    "instanceKeywords": ["Twilight Forest", "TF"],
+    "filePattern": [
+      "twilightforest-\\d+\\.\\d+\\.\\d+\\.jar",
+      "twilightforest-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\-universal.jar",
+      "twilightforest-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\-universal.jar"
+    ],
+    "videoURL": "",
+    "videoSHA1": "",
+    "audioURL": "",
+    "audioSHA1": "",
+    "iconURL": "",
+    "iconSHA1": "",
+    "title": "The Twilight Forest",
+    "desc": "Adds a new dimension with unique dungeons, items, and creatures.",
+    "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest"
+  },
+  "FarmersDelight": {
+    "instanceKeywords": ["Farmer's Delight", "FD", "Farmer"],
+    "filePattern": [
+      "FarmersDelight-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar",
+      "FarmersDelight-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar"
+    ],
+    "videoURL": "",
+    "videoSHA1": "",
+    "audioURL": "",
+    "audioSHA1": "",
+    "iconURL": "",
+    "iconSHA1": "",
+    "title": "Farmer's Delight",
+    "desc": "Expands upon farming and cooking in Minecraft with new crops, tools, and recipes.",
+    "modrinthURL": "https://modrinth.com/mod/farmers-delight",
+    "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight"
+  },
+  "TerraForged": {
+    "instanceKeywords": ["TerraForged"],
+    "filePattern": [
+      "TerraForged-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\.jar"
+    ],
+    "videoURL": "",
+    "videoSHA1": "",
+    "audioURL": "",
+    "audioSHA1": "",
+    "iconURL": "",
+    "iconSHA1": "",
+    "title": "TerraForged",
+    "desc": "A terrain generation mod that creates stunning landscapes and realistic terrain.",
+    "modrinthURL": "https://modrinth.com/mod/terraforged",
+    "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/terraforged"
+  }
 }
