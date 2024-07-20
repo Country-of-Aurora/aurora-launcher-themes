@@ -113,7 +113,7 @@
     "audioURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdlRXRmQ2VXJrMVRnUVVMY0dBUW1LZ0RrcFdWP2U9YWJzRUNx/root/content",
     "audioSHA1": "2079a8d3b7e5e245fbe66fe0ab934aa42db783d0",
     "iconURL": "https://cdn.modrinth.com/data/uCdwusMi/icon.png",
-    "iconSHA1": "0c7ae45589c6bfe07dbd833c2fd078c01f1adf60",
+    "iconSHA1": "0d4a6eaabadd21a7a36c6e7c131b406f70bc933c",
     "title": "Distant Horizons",
     "desc": "Implements Level of Detail (LOD) to render distant terrain efficiently.",
     "modrinthURL": "https://modrinth.com/mod/distant-horizons",
