@@ -7,7 +7,8 @@
           "Joban-Client-Mod-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+",
           "JCM-(fabric|forge)-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\+\\d+\\.\\d+\\.\\d+",
           "JCM-(fabric|forge)-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+-beta-\\d+\\+\\d+\\.\\d+\\.\\d+",
-          "JCM-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+-beta-\\d+\\+\\d+\\.\\d+\\.\\d+"
+          "JCM-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+-beta-\\d+\\+\\d+\\.\\d+\\.\\d+",
+          "JCM-(fabric|forge)-\\d+\\.\\d+\\.\\d+\\-beta-\\d+\\+\\d+\\.\\d+\\.\\d+\\.jar"
       ],
       "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRjcTk2THljTzVNbmI2UEE_ZT1FVjljWjI/root/content",
       "videoSHA1": "354dcc59e2477176cd004917b474e6876c507712",
@@ -103,7 +104,9 @@
       "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\-neo-fabric.jar",
       "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\-forge-fabric.jar",
       "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\.\\d+\\.jar",
-      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\a-\\d+\\.\\d+\\.jar"
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\a-\\d+\\.\\d+\\.jar",
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\.\\d+\\-forge-fabric.jar",
+      "DistantHorizons-\\d+\\.\\d+\\.\\d+\\-a-\\d+\\.\\d+\\-forge-fabric.jar"
     ],
     "videoURL": "",
     "videoSHA1": "",
