@@ -20,26 +20,6 @@
       "desc": "Joban Client Mod is a decoration addon for the MTR Mod.",
       "modrinthURL": "https://modrinth.com/mod/jcm"
     },
-    "MTR": {
-      "instanceKeywords": ["MTR", "Minecraft Transit Railway"],
-      "filePattern": [
-        "MTR-(fabric|forge)-\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\.jar",
-        "MTR-\\d+\\.\\d+\\.\\d+\\-alpha-test-\\d+\\.\\d+\\.\\d+\\.jar",
-        "MTR-(fabric|forge)-\\d+\\.\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\-hotfix-\\d+\\.jar",
-        "MTR-(fabric|forge)-\\d+\\.\\d+\\-\\d+\\.\\d+\\.\\d+\\-hotfix-\\d+\\.jar",
-        "MTR-(fabric|forge)-\\d+\\.\\d+\\.\\d+\\-beta-\\d+\\+\\d+\\.\\d+\\.\\d+\\.jar"
-      ],
-      "videoURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlRXRmQ2VXJrMVRjUWt3VW1VQjNIMmQxN2c_ZT1JZ1JEcFE/root/content",
-      "videoSHA1": "e949384c2243d6bb6b204c951ac77b8af1b95234",
-      "audioURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdlRXRmQ2VXJrMVRiZnRLVzFTcXVlTURZeWs_ZT03Y1lVUVE/root/content",
-      "audioSHA1": "a9665eed716f285231c64c2e69303d8720907e39",
-      "iconURL": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBdlRXRmQ2VXJrMVRiSEM5RVpXVmVNS0s5eHM_ZT1ad2RvRFA/root/content",
-      "iconSHA1": "f484320ee8eec9cd6089831f13f1ee7219fa53d8",
-      "title": "Minecraft Transit Railway",
-      "desc": "Build your own transport network with automated trains, boats, cable cars, and planes!",
-      "modrinthURL": "https://modrinth.com/mod/minecraft-transit-railway",
-      "curseforgeURL": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway"
-    },
     "RTM": {
       "instanceKeywords": ["RTM", "Real Train", "Real Train Mod", "RealTrainMod", "RealTrain Mod", "Real TrainMod"],
       "filePattern": [
